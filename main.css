@@ -1,0 +1,34 @@
+.one,
+.two,
+.three,
+.four,
+.five,
+.six {
+    border: 1px solid black;
+}
+
+.one {
+    height: 200px;
+    width: 200px;
+}
+
+.two,
+.six {
+    height: 100px;
+    width: 100px;
+}
+
+.three {
+    height: 100px;
+    width: 200px;
+}
+
+.four {
+    height: 200px;
+    width: 100px;
+}
+
+.five {
+    height: 100px;
+    width: 200px;
+}
